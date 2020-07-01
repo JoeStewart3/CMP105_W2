@@ -25,5 +25,8 @@ private:
 	Input* input;
 
 	// Add your object here
-
+	sf::Font font;
+	sf::Text text;
+	sf::Text text2;
+	sf::CircleShape circle;
 };
